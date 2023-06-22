@@ -1,3 +1,8 @@
+# Today I Learned
+
+The "Today I Learned"  app is a React-basedapplication that allows users to learn fascinating facts. Powered by the Supabase backend, this app provides an interactive and engaging platform for users to explore and expand their knowledge. Users can also vote on the facts and add a new one.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
